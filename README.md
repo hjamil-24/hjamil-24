@@ -1,6 +1,7 @@
 ### Hi there 👋
 
-I prefer being called Hasan. Often use `HJ`.
+I prefer being called Hasan...
+Open Source beginner
 
 <!--
 **hjamil-24/hjamil-24** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
