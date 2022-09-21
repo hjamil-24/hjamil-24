@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am Hasan. Currntly working oracle. I mainly work on NodeJs drivers for oracledb
+I am Hasan. Currently working  at oracle. I mainly work on NodeJs drivers for oracledb
 
 <!--
 **hjamil-24/hjamil-24** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
